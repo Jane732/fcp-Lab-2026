@@ -9,4 +9,6 @@ int main()
         if(i%2==0){continue;}
         printf("%d\n",i);
     }
+
+    printf("what\?");
 }
